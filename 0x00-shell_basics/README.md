@@ -1,1 +1,2 @@
-0-current_working_directorycontains command for printing absolute path name of the current working directory
+1-listit contains command for listing files in current working directory
+0-current_working_directory contains command for printing absolute path name of current working directory
