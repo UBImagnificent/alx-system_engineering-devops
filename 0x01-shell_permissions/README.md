@@ -8,4 +8,7 @@
 7-everbody, gives owner, group owners and other users execute permissions
 8-James_Bond, gives owner and group owners no permission while other users are given all permission
 9-John Doe, gives owner read,write and execute permission group owners read and execute permission and other users write and execute permission
-10-mirror permissions, sets the mide of file hello the same as olleh
+10-mirror permissions, sets the mode of file hello the same as olleh
+11-directory_permissions, gives execute permission to all sub directories of current working directory for owner, group owner and other users
+12-directory_permission creates directory 'my_dir' and gives owner read,write and execute permission,group onwer read and execute permission and other users read execute permission
+13-change_group, changes group owner of file  hello to school
